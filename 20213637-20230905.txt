@@ -1,0 +1,168 @@
+一、简介
+     我学会用Git Bash编写一些简单的指令，不太明白的上网查资料或者请教同学。
+      
+二、操作步骤
+
+1、下载安装好Git Bash，选择适合的字号大小
+2、利用Git Bash在D盘创建好自己的文件夹zhongyt
+3、重复使用 cp、mkdir、cd、cd ..、ls、mv、rm等指令 
+   直到熟练为止
+
+三、历史记录
+    1  cd /
+    2  ls
+    3  ls
+    4  cd d/
+    5  mkdir zyt "z/zz/zzz"
+    6  cd
+    7  cd /d
+    8  mkdir zyt "z/zz/zzz"
+    9  mkdir zyt
+   10  cd /d/zyt
+   11  touch 20213637-01.html
+   12  ls
+   13  history
+   14  history >homework.txt
+   15  cp "D:\课件\Java web 基础与实例教程\The Linux Command Line A Complete Introduction.pdf" .
+   16  cp "D:\课件\Java web 基础与实例教程\Eloquent_JavaScript.pdf" .
+   17  cd /d
+   18  mkdir zhongyt
+   19  cd /d/zhongyt
+   20  mkdir zzz
+   21  cd ..
+   22  cd /d/zhongyt
+   23  ls
+   24  cp "D:\课件\Java web 基础与实例教程\The Linux Command Line A Complete Introduction.pdf" .
+   25  CP "E:\desk\ZYT.jpg" .
+   26  rm zzz
+   27  rm -r zzz
+   28  ls
+   29  history
+   30  reset
+   31  history
+   32  mkdir zzz
+   33  clear
+   34  mkdir zz
+   35  mkdir z
+   36  ls
+   37  cp "E:\picture\国旗.jpg" .
+   38  pwd
+   39  ll
+   40  rmdir zzz
+   41  ll
+   42  rmdir zz
+   43  cd /z
+   44  cd z
+   45  cp "D:\zhongyt\The Linux Command Line A Complete Introduction.pdf" .
+   46  rmdir ZYT.jpg
+   47  rm "D:\zhongyt\ZYT.jpg"
+   48  ls
+   49  cd ..
+   50  ls
+   51  rm "D:\zhongyt\国旗.jpg"
+   52  ls
+   53  history
+   54  clear
+   55  cp /e/picture/*
+   56  cp /e/picture/* jpg
+   57  cp /e/picture/* /d/zhongyt
+   58  mkdir zzzz
+   59  cd zzzz
+   60  cd ..
+   61  cp ./z /d
+   62  cp /d/zhongyt/z /d
+   63  mv /d/zhongyt/z /d
+   64  ls
+   65  cd ..
+   66  ls
+   67  rm -r zhongyt
+   68  ls
+   69  mkdir zhongyt
+   70  ls
+   71  cd zhongyt
+   72  ls
+   73  cd ..
+   74  mv z /d/zhongyt
+   75  ls
+   76  cd zhongyt
+   77  ls
+   78  cd z
+   79  ls
+   80  cd ..
+   81  mkdir a
+   82  ls
+   83  cd a
+   84  ls
+   85  cp /e/picture/* 
+   86  cp /e/picture/* /d/zhongyt/a
+   87  ls
+   88  cd ..
+   89  ls
+   90  cd z
+   91  ls
+   92  rm "D:\zhongyt\z\The Linux Command Line A Complete Introduction.pdf" .
+   93  rm "D:\zhongyt\z\The Linux Command Line A Complete Introduction.pdf"
+   94  rm /D:\zhongyt\z\The Linux Command Line A Complete Introduction.pdf
+   95  cd ..
+   96  ls
+   97  rm z
+   98  rm ./z
+   99  rm ./z/*
+  100  rm /z
+  101  rm z
+  102  rm -rf z
+  103  clear
+  104  history
+  105  clear
+  106  history
+  107  rm -rf a
+  108  ls
+  109  mkdir b
+  110  ls
+  111  cp "D:\课件\Java web 基础与实例教程\The Linux Command Line A Complete Introduction.pdf"
+  112  cp "D:\课件\Java web 基础与实例教程\The Linux Command Line A Complete Introduction.pdf" .
+  113  ls
+  114  cp "D:\课件\Java web 基础与实例教程\Learn CSS in One Day and Learn It Well.pdf" .
+  115  ls
+  116  cp "D:\课件\Java web 基础与实例教程\Eloquent_JavaScript.pdf" .
+  117  ls
+  118  cd b
+  119  cp "D:\课件\Java web 基础与实例教程\Eloquent_JavaScript.pdf" .
+  120  ls
+  121  cd ..
+  122  pwd
+  123  touch s
+  124  ls
+  125  rm -rf s
+  126  ls
+  127  rm -rf b
+  128  ls
+  129  cd ..
+  130  ls
+  131  rm -rf zhongyt
+  132  ls
+  133  mkdir zhongyt
+  134  ls
+  135  cd zhongyt
+  136  mkdir s
+  137  ls
+  138  mkdir ss
+  139  mkdir sss
+  140  ls
+  141  cd s
+  142  cp "D:\课件\Java web 基础与实例教程\Eloquent_JavaScript.pdf" .
+  143  ls
+  144  cd ..
+  145  cd ss
+  146  cp /e/picture/*
+  147  cp /e/picture/* /d/zhongyt/ss
+  148  ls
+  149  cd ..
+  150  history
+  151  rm -rf sss
+  152  ls
+  153  rm -rf ss
+  154  ls
+  155  cd s
+  156  ls
+  157  history >20213637钟雅婷.txt
